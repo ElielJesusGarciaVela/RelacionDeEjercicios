@@ -18,4 +18,4 @@
 
 ## [Ejercicio 10](Ejercicio10/Ej10.java)
 
-## [>>Volver<<](../README.md)
+## [>>Vovler a listado de ejercicios<<](../README.md)
